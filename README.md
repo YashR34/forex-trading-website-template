@@ -100,3 +100,10 @@ This is a public Forex trading website template built using HTML, Bootstrap, CSS
 
 
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+![Screenshot (10)](https://github.com/user-attachments/assets/2aa40031-0458-4a51-84b3-d676cdbec403)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/a83cb554-d71f-4890-b44b-d8c1aae40124)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/9e2c3b13-4559-4099-b087-5a0332e08872)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/77cc5dd7-e062-4c01-a4bf-e1a3a25ef065)
